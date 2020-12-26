@@ -1,0 +1,21 @@
+{
+  "name": "Crown-bot",
+  "version": "1.0.0",
+  "description": "custom made bot for the bois -rmc",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-senpai": "^1.0.0",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
